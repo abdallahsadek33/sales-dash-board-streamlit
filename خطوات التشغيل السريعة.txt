@@ -1,0 +1,16 @@
+ خطوات التشغيل السريعة
+
+### الخطوة 1: تثبيت المكتبات المطلوبة
+افتح Command Prompt أو Terminal واكتب:
+
+```bash
+pip install streamlit plotly openpyxl pandas
+```
+
+### الخطوة 2: تشغيل الداشبورد
+في نفس المجلد اللي فيه الملفات، اكتب:
+
+```bash
+python -m streamlit run dashboard_FIXED_FINAL.py
+
+```
