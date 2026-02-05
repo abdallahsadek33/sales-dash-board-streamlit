@@ -162,7 +162,6 @@ This project is open-source and available for educational and commercial use.
 **Abdallah Sadek**
 
 - GitHub: [@abdallahsadek33](https://github.com/abdallahsadek33)
-- Portfolio: [Your Portfolio Link]
 
 ---
 
